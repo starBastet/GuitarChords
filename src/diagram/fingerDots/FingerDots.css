@@ -1,0 +1,10 @@
+#fingerDotsContainer
+{
+	opacity:1;
+	transition:all 200ms;
+}
+
+#fingerDotsContainer.fadeOut
+{
+	opacity:0;
+}

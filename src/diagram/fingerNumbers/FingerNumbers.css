@@ -1,0 +1,13 @@
+#fingerNumbersContainer
+{
+	position:relative;
+	height:20px;
+	margin-top:10px;
+	opacity:1;
+	transition:all 200ms;
+}
+
+#fingerNumbersContainer.fadeOut
+{
+	opacity:0;
+}

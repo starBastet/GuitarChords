@@ -1,0 +1,13 @@
+#chordNameListContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-left:13%;
+	margin-top:5%;
+	list-style-type:none;
+}
+
+#chordNameListContainer ul
+{
+	position:relative;
+}

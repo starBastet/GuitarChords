@@ -1,0 +1,21 @@
+.fretboard
+{
+	position:relative;
+	margin-left:-3px;
+	margin-top:30px;
+	padding-left:33px;
+	width:175px;
+	height:122px;
+	overflow:hidden;
+	transition:all 200ms;
+}
+
+.fourthFret
+{
+	height:162px;
+}
+
+.fifthFret
+{
+	height:202px;
+}

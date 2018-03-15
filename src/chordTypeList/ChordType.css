@@ -1,0 +1,28 @@
+#chordTypeListContainer li
+{
+	position:absolute;
+	left:0;
+	float:left;
+	width:50px;
+	height:22px;
+	text-align:center;
+	margin-right:220px;
+	cursor:pointer;
+	overflow:hidden;
+}
+
+#chordTypeListContainer li p
+{
+	margin:0;
+	margin-top:.2em;
+	font-size:1em;
+	font-family:sans-serif;
+}
+
+#chordTypeListContainer .over
+{
+	border-radius:0%;
+	/*border:1px solid #333;*/
+	background-color:#999;
+	color:#fff;
+}
